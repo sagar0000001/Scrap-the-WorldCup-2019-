@@ -1,0 +1,628 @@
+[
+  {
+    "name": "New Zealand",
+    "matches": [
+      {
+        "vsTeam": "England",
+        "myScore": "241/8",
+        "vsScore": "241",
+        "result": "Match tied"
+      },
+      {
+        "vsTeam": "India",
+        "myScore": "239/8",
+        "vsScore": "221",
+        "result": "New Zealand won by 18 runs"
+      },
+      {
+        "vsTeam": "England",
+        "myScore": "186",
+        "vsScore": "305/8",
+        "result": "England won by 119 runs"
+      },
+      {
+        "vsTeam": "Australia",
+        "myScore": "157",
+        "vsScore": "243/9",
+        "result": "Australia won by 86 runs"
+      },
+      {
+        "vsTeam": "Pakistan",
+        "myScore": "237/6",
+        "vsScore": "241/4",
+        "result": "Pakistan won by 6 wickets (with 5 balls remaining)"
+      },
+      {
+        "vsTeam": "West Indies",
+        "myScore": "291/8",
+        "vsScore": "286",
+        "result": "New Zealand won by 5 runs"
+      },
+      {
+        "vsTeam": "South Africa",
+        "myScore": "245/6",
+        "vsScore": "241/6",
+        "result": "New Zealand won by 4 wickets (with 3 balls remaining)"
+      },
+      {
+        "vsTeam": "India",
+        "myScore": "",
+        "vsScore": "",
+        "result": "Match abandoned without a ball bowled"
+      },
+      {
+        "vsTeam": "Afghanistan",
+        "myScore": "173/3",
+        "vsScore": "172",
+        "result": "New Zealand won by 7 wickets (with 107 balls remaining)"
+      },
+      {
+        "vsTeam": "Bangladesh",
+        "myScore": "248/8",
+        "vsScore": "244",
+        "result": "New Zealand won by 2 wickets (with 17 balls remaining)"
+      },
+      {
+        "vsTeam": "Sri Lanka",
+        "myScore": "137/0",
+        "vsScore": "136",
+        "result": "New Zealand won by 10 wickets (with 203 balls remaining)"
+      }
+    ]
+  },
+  {
+    "name": "England",
+    "matches": [
+      {
+        "vsTeam": "New Zealand",
+        "myScore": "241",
+        "vsScore": "241/8",
+        "result": "Match tied"
+      },
+      {
+        "vsTeam": "Australia",
+        "myScore": "226/2",
+        "vsScore": "223",
+        "result": "England won by 8 wickets (with 107 balls remaining)"
+      },
+      {
+        "vsTeam": "New Zealand",
+        "myScore": "305/8",
+        "vsScore": "186",
+        "result": "England won by 119 runs"
+      },
+      {
+        "vsTeam": "India",
+        "myScore": "337/7",
+        "vsScore": "306/5",
+        "result": "England won by 31 runs"
+      },
+      {
+        "vsTeam": "Australia",
+        "myScore": "221",
+        "vsScore": "285/7",
+        "result": "Australia won by 64 runs"
+      },
+      {
+        "vsTeam": "Sri Lanka",
+        "myScore": "212",
+        "vsScore": "232/9",
+        "result": "Sri Lanka won by 20 runs"
+      },
+      {
+        "vsTeam": "Afghanistan",
+        "myScore": "397/6",
+        "vsScore": "247/8",
+        "result": "England won by 150 runs"
+      },
+      {
+        "vsTeam": "West Indies",
+        "myScore": "213/2",
+        "vsScore": "212",
+        "result": "England won by 8 wickets (with 101 balls remaining)"
+      },
+      {
+        "vsTeam": "Bangladesh",
+        "myScore": "386/6",
+        "vsScore": "280",
+        "result": "England won by 106 runs"
+      },
+      {
+        "vsTeam": "Pakistan",
+        "myScore": "334/9",
+        "vsScore": "348/8",
+        "result": "Pakistan won by 14 runs"
+      },
+      {
+        "vsTeam": "South Africa",
+        "myScore": "311/8",
+        "vsScore": "207",
+        "result": "England won by 104 runs"
+      }
+    ]
+  },
+  {
+    "name": "Australia",
+    "matches": [
+      {
+        "vsTeam": "England",
+        "myScore": "223",
+        "vsScore": "226/2",
+        "result": "England won by 8 wickets (with 107 balls remaining)"
+      },
+      {
+        "vsTeam": "South Africa",
+        "myScore": "315",
+        "vsScore": "325/6",
+        "result": "South Africa won by 10 runs"
+      },
+      {
+        "vsTeam": "New Zealand",
+        "myScore": "243/9",
+        "vsScore": "157",
+        "result": "Australia won by 86 runs"
+      },
+      {
+        "vsTeam": "England",
+        "myScore": "285/7",
+        "vsScore": "221",
+        "result": "Australia won by 64 runs"
+      },
+      {
+        "vsTeam": "Bangladesh",
+        "myScore": "381/5",
+        "vsScore": "333/8",
+        "result": "Australia won by 48 runs"
+      },
+      {
+        "vsTeam": "Sri Lanka",
+        "myScore": "334/7",
+        "vsScore": "247",
+        "result": "Australia won by 87 runs"
+      },
+      {
+        "vsTeam": "Pakistan",
+        "myScore": "307",
+        "vsScore": "266",
+        "result": "Australia won by 41 runs"
+      },
+      {
+        "vsTeam": "India",
+        "myScore": "316",
+        "vsScore": "352/5",
+        "result": "India won by 36 runs"
+      },
+      {
+        "vsTeam": "West Indies",
+        "myScore": "288",
+        "vsScore": "273/9",
+        "result": "Australia won by 15 runs"
+      },
+      {
+        "vsTeam": "Afghanistan",
+        "myScore": "209/3",
+        "vsScore": "207",
+        "result": "Australia won by 7 wickets (with 91 balls remaining)"
+      }
+    ]
+  },
+  {
+    "name": "India",
+    "matches": [
+      {
+        "vsTeam": "New Zealand",
+        "myScore": "221",
+        "vsScore": "239/8",
+        "result": "New Zealand won by 18 runs"
+      },
+      {
+        "vsTeam": "Sri Lanka",
+        "myScore": "265/3",
+        "vsScore": "264/7",
+        "result": "India won by 7 wickets (with 39 balls remaining)"
+      },
+      {
+        "vsTeam": "Bangladesh",
+        "myScore": "314/9",
+        "vsScore": "286",
+        "result": "India won by 28 runs"
+      },
+      {
+        "vsTeam": "England",
+        "myScore": "306/5",
+        "vsScore": "337/7",
+        "result": "England won by 31 runs"
+      },
+      {
+        "vsTeam": "West Indies",
+        "myScore": "268/7",
+        "vsScore": "143",
+        "result": "India won by 125 runs"
+      },
+      {
+        "vsTeam": "Afghanistan",
+        "myScore": "224/8",
+        "vsScore": "213",
+        "result": "India won by 11 runs"
+      },
+      {
+        "vsTeam": "Pakistan",
+        "myScore": "336/5",
+        "vsScore": "212/6",
+        "result": "India won by 89 runs (D/L method)"
+      },
+      {
+        "vsTeam": "New Zealand",
+        "myScore": "",
+        "vsScore": "",
+        "result": "Match abandoned without a ball bowled"
+      },
+      {
+        "vsTeam": "Australia",
+        "myScore": "352/5",
+        "vsScore": "316",
+        "result": "India won by 36 runs"
+      },
+      {
+        "vsTeam": "South Africa",
+        "myScore": "230/4",
+        "vsScore": "227/9",
+        "result": "India won by 6 wickets (with 15 balls remaining)"
+      }
+    ]
+  },
+  {
+    "name": "South Africa",
+    "matches": [
+      {
+        "vsTeam": "Australia",
+        "myScore": "325/6",
+        "vsScore": "315",
+        "result": "South Africa won by 10 runs"
+      },
+      {
+        "vsTeam": "Sri Lanka",
+        "myScore": "206/1",
+        "vsScore": "203",
+        "result": "South Africa won by 9 wickets (with 76 balls remaining)"
+      },
+      {
+        "vsTeam": "Pakistan",
+        "myScore": "259/9",
+        "vsScore": "308/7",
+        "result": "Pakistan won by 49 runs"
+      },
+      {
+        "vsTeam": "New Zealand",
+        "myScore": "241/6",
+        "vsScore": "245/6",
+        "result": "New Zealand won by 4 wickets (with 3 balls remaining)"
+      },
+      {
+        "vsTeam": "Afghanistan",
+        "myScore": "131/1",
+        "vsScore": "125",
+        "result": "South Africa won by 9 wickets (with 116 balls remaining) (D/L method)"
+      },
+      {
+        "vsTeam": "West Indies",
+        "myScore": "29/2",
+        "vsScore": "",
+        "result": "No result"
+      },
+      {
+        "vsTeam": "India",
+        "myScore": "227/9",
+        "vsScore": "230/4",
+        "result": "India won by 6 wickets (with 15 balls remaining)"
+      },
+      {
+        "vsTeam": "Bangladesh",
+        "myScore": "309/8",
+        "vsScore": "330/6",
+        "result": "Bangladesh won by 21 runs"
+      },
+      {
+        "vsTeam": "England",
+        "myScore": "207",
+        "vsScore": "311/8",
+        "result": "England won by 104 runs"
+      }
+    ]
+  },
+  {
+    "name": "Sri Lanka",
+    "matches": [
+      {
+        "vsTeam": "India",
+        "myScore": "264/7",
+        "vsScore": "265/3",
+        "result": "India won by 7 wickets (with 39 balls remaining)"
+      },
+      {
+        "vsTeam": "West Indies",
+        "myScore": "338/6",
+        "vsScore": "315/9",
+        "result": "Sri Lanka won by 23 runs"
+      },
+      {
+        "vsTeam": "South Africa",
+        "myScore": "203",
+        "vsScore": "206/1",
+        "result": "South Africa won by 9 wickets (with 76 balls remaining)"
+      },
+      {
+        "vsTeam": "England",
+        "myScore": "232/9",
+        "vsScore": "212",
+        "result": "Sri Lanka won by 20 runs"
+      },
+      {
+        "vsTeam": "Australia",
+        "myScore": "247",
+        "vsScore": "334/7",
+        "result": "Australia won by 87 runs"
+      },
+      {
+        "vsTeam": "Bangladesh",
+        "myScore": "",
+        "vsScore": "",
+        "result": "Match abandoned without a ball bowled"
+      },
+      {
+        "vsTeam": "Pakistan",
+        "myScore": "",
+        "vsScore": "",
+        "result": "Match abandoned without a ball bowled"
+      },
+      {
+        "vsTeam": "Afghanistan",
+        "myScore": "201",
+        "vsScore": "152",
+        "result": "Sri Lanka won by 34 runs (D/L method)"
+      },
+      {
+        "vsTeam": "New Zealand",
+        "myScore": "136",
+        "vsScore": "137/0",
+        "result": "New Zealand won by 10 wickets (with 203 balls remaining)"
+      }
+    ]
+  },
+  {
+    "name": "Pakistan",
+    "matches": [
+      {
+        "vsTeam": "Bangladesh",
+        "myScore": "315/9",
+        "vsScore": "221",
+        "result": "Pakistan won by 94 runs"
+      },
+      {
+        "vsTeam": "Afghanistan",
+        "myScore": "230/7",
+        "vsScore": "227/9",
+        "result": "Pakistan won by 3 wickets (with 2 balls remaining)"
+      },
+      {
+        "vsTeam": "New Zealand",
+        "myScore": "241/4",
+        "vsScore": "237/6",
+        "result": "Pakistan won by 6 wickets (with 5 balls remaining)"
+      },
+      {
+        "vsTeam": "South Africa",
+        "myScore": "308/7",
+        "vsScore": "259/9",
+        "result": "Pakistan won by 49 runs"
+      },
+      {
+        "vsTeam": "India",
+        "myScore": "212/6",
+        "vsScore": "336/5",
+        "result": "India won by 89 runs (D/L method)"
+      },
+      {
+        "vsTeam": "Australia",
+        "myScore": "266",
+        "vsScore": "307",
+        "result": "Australia won by 41 runs"
+      },
+      {
+        "vsTeam": "Sri Lanka",
+        "myScore": "",
+        "vsScore": "",
+        "result": "Match abandoned without a ball bowled"
+      },
+      {
+        "vsTeam": "England",
+        "myScore": "348/8",
+        "vsScore": "334/9",
+        "result": "Pakistan won by 14 runs"
+      },
+      {
+        "vsTeam": "West Indies",
+        "myScore": "105",
+        "vsScore": "108/3",
+        "result": "West Indies won by 7 wickets (with 218 balls remaining)"
+      }
+    ]
+  },
+  {
+    "name": "Bangladesh",
+    "matches": [
+      {
+        "vsTeam": "Pakistan",
+        "myScore": "221",
+        "vsScore": "315/9",
+        "result": "Pakistan won by 94 runs"
+      },
+      {
+        "vsTeam": "India",
+        "myScore": "286",
+        "vsScore": "314/9",
+        "result": "India won by 28 runs"
+      },
+      {
+        "vsTeam": "Afghanistan",
+        "myScore": "262/7",
+        "vsScore": "200",
+        "result": "Bangladesh won by 62 runs"
+      },
+      {
+        "vsTeam": "Australia",
+        "myScore": "333/8",
+        "vsScore": "381/5",
+        "result": "Australia won by 48 runs"
+      },
+      {
+        "vsTeam": "West Indies",
+        "myScore": "322/3",
+        "vsScore": "321/8",
+        "result": "Bangladesh won by 7 wickets (with 51 balls remaining)"
+      },
+      {
+        "vsTeam": "Sri Lanka",
+        "myScore": "",
+        "vsScore": "",
+        "result": "Match abandoned without a ball bowled"
+      },
+      {
+        "vsTeam": "England",
+        "myScore": "280",
+        "vsScore": "386/6",
+        "result": "England won by 106 runs"
+      },
+      {
+        "vsTeam": "New Zealand",
+        "myScore": "244",
+        "vsScore": "248/8",
+        "result": "New Zealand won by 2 wickets (with 17 balls remaining)"
+      },
+      {
+        "vsTeam": "South Africa",
+        "myScore": "330/6",
+        "vsScore": "309/8",
+        "result": "Bangladesh won by 21 runs"
+      }
+    ]
+  },
+  {
+    "name": "West Indies",
+    "matches": [
+      {
+        "vsTeam": "Afghanistan",
+        "myScore": "311/6",
+        "vsScore": "288",
+        "result": "West Indies won by 23 runs"
+      },
+      {
+        "vsTeam": "Sri Lanka",
+        "myScore": "315/9",
+        "vsScore": "338/6",
+        "result": "Sri Lanka won by 23 runs"
+      },
+      {
+        "vsTeam": "India",
+        "myScore": "143",
+        "vsScore": "268/7",
+        "result": "India won by 125 runs"
+      },
+      {
+        "vsTeam": "New Zealand",
+        "myScore": "286",
+        "vsScore": "291/8",
+        "result": "New Zealand won by 5 runs"
+      },
+      {
+        "vsTeam": "Bangladesh",
+        "myScore": "321/8",
+        "vsScore": "322/3",
+        "result": "Bangladesh won by 7 wickets (with 51 balls remaining)"
+      },
+      {
+        "vsTeam": "England",
+        "myScore": "212",
+        "vsScore": "213/2",
+        "result": "England won by 8 wickets (with 101 balls remaining)"
+      },
+      {
+        "vsTeam": "South Africa",
+        "myScore": "",
+        "vsScore": "29/2",
+        "result": "No result"
+      },
+      {
+        "vsTeam": "Australia",
+        "myScore": "273/9",
+        "vsScore": "288",
+        "result": "Australia won by 15 runs"
+      },
+      {
+        "vsTeam": "Pakistan",
+        "myScore": "108/3",
+        "vsScore": "105",
+        "result": "West Indies won by 7 wickets (with 218 balls remaining)"
+      }
+    ]
+  },
+  {
+    "name": "Afghanistan",
+    "matches": [
+      {
+        "vsTeam": "West Indies",
+        "myScore": "288",
+        "vsScore": "311/6",
+        "result": "West Indies won by 23 runs"
+      },
+      {
+        "vsTeam": "Pakistan",
+        "myScore": "227/9",
+        "vsScore": "230/7",
+        "result": "Pakistan won by 3 wickets (with 2 balls remaining)"
+      },
+      {
+        "vsTeam": "Bangladesh",
+        "myScore": "200",
+        "vsScore": "262/7",
+        "result": "Bangladesh won by 62 runs"
+      },
+      {
+        "vsTeam": "India",
+        "myScore": "213",
+        "vsScore": "224/8",
+        "result": "India won by 11 runs"
+      },
+      {
+        "vsTeam": "England",
+        "myScore": "247/8",
+        "vsScore": "397/6",
+        "result": "England won by 150 runs"
+      },
+      {
+        "vsTeam": "South Africa",
+        "myScore": "125",
+        "vsScore": "131/1",
+        "result": "South Africa won by 9 wickets (with 116 balls remaining) (D/L method)"
+      },
+      {
+        "vsTeam": "New Zealand",
+        "myScore": "172",
+        "vsScore": "173/3",
+        "result": "New Zealand won by 7 wickets (with 107 balls remaining)"
+      },
+      {
+        "vsTeam": "Sri Lanka",
+        "myScore": "152",
+        "vsScore": "201",
+        "result": "Sri Lanka won by 34 runs (D/L method)"
+      },
+      {
+        "vsTeam": "Australia",
+        "myScore": "207",
+        "vsScore": "209/3",
+        "result": "Australia won by 7 wickets (with 91 balls remaining)"
+      }
+    ]
+  }
+]

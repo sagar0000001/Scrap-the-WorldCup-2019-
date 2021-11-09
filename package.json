@@ -1,10 +1,14 @@
 {
   "dependencies": {
     "axios": "^0.22.0",
+    "cheerio": "^1.0.0-rc.10",
+    "chrome-paths": "^1.0.1",
     "excel4node": "^1.7.2",
+    "handlebars": "^4.7.7",
     "jsdom": "^18.0.0",
     "minimist": "^1.2.5",
     "pdf-lib": "^1.16.0",
+    "puppeteer-core": "^11.0.0",
     "qrcode": "^1.4.4"
   }
 }
